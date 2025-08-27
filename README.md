@@ -1,0 +1,2 @@
+# Graph_Theory_Shortest_Path_Optimization_Engine-Dijkstra_Algorithmic_Toolkit
+Comprehensive graph-optimization engine implementing Dijkstra’s shortest path algorithm with adjacency-list/adjacency-matrix support, priority-queue optimization via binary heap, and O(E log V) runtime guarantees. Includes path reconstruction, weighted graph extensibility, benchmarking suite, and modular API for algorithmic integration.
